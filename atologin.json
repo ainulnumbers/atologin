@@ -21,9 +21,9 @@
     {
       "key": "TEST-0000-DEMO",
       "device_id": "3cde322a-274d-454f-99b1-45f2e18792f9",
-      "expiry_date": "2024-12-31",
-      "active": false,
-      "status": "inactive",
+      "expiry_date": "2027-12-31",
+      "active": true,
+      "status": "active",
       "created_date": "2024-01-01",
       "max_devices": 1
     }
