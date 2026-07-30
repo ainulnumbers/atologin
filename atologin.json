@@ -19,8 +19,8 @@
       "max_devices": 1
     },
     {
-      "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
+      "key": "TEST-0000-DEMO",
+      "device_id": "3cde322a-274d-454f-99b1-45f2e18792f9",
       "expiry_date": "2024-12-31",
       "active": false,
       "status": "inactive",
